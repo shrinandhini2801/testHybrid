@@ -306,7 +306,7 @@
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				PRODUCT_NAME = HelloWorld;
-				PROVISIONING_PROFILE = "a769d2e3-2196-4c85-850b-251aef14dd2e";
+				PROVISIONING_PROFILE = "e9c1ea4a-9407-4da8-b137-068a806fc000";
 				PROVISIONING_PROFILE_SPECIFIER = "47F2KXC4F9/NVS Team Development Profile";
 				TARGETED_DEVICE_FAMILY = 1;
 			};
@@ -328,7 +328,7 @@
 				GCC_VERSION = "";
 				INFOPLIST_FILE = "HelloWorld/HelloWorld-Info.plist";
 				PRODUCT_NAME = HelloWorld;
-				PROVISIONING_PROFILE = "3b928f6c-4ea8-4103-a168-7da117b5f806";
+				PROVISIONING_PROFILE = "29a2521d-a2c9-4e60-a996-cff8569a6078";
 				PROVISIONING_PROFILE_SPECIFIER = 47F2KXC4F9/NVS_Team_Distribution_Profile;
 				TARGETED_DEVICE_FAMILY = 1;
 			};
